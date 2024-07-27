@@ -23,8 +23,11 @@ Gypto Clone is a beautiful web application inspired by the design principles of 
 
 # Features
  • Basic CSS Animations: Implementing smooth and engaging animations with basic CSS properties.
+ 
  • Responsive Design: Ensuring seamless usability across various devices and screen sizes.
+ 
  • Interactive Elements: Incorporating interactive components to encourage user engagement and exploration.
+ 
  • Modern Web Technologies:
    • HTML, CSS: Core technologies for building a robust frontend interface.
 
