@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bebas';
+    
+}
+
+@font-face {
+    font-family: 'bebas';
+    src: url(BebasNeue-Regular.ttf);
+    letter-spacing: 2px;
+}
+
+html,
+body {
+    background-color: #010511;
+}
+
+body{
+    overflow: hidden;
+}
+nav {
+    color: white;
+    height: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 40px 0;
+}
+
+#nav1 {
+    color: rgb(45, 87, 90);
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    font: 15px;
+    letter-spacing: 2px;
+}
+
+#nav1 h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    color: white;
+    background-color: #010511;
+    font-size: 20px;
+    padding: 22px 42px;
+    border-radius: 4px;
+    font-family: 'gilroy';
+    border: 1px solid rgb(0, 139, 132);
+}
+
+#rest {
+    position: relative;
+    font-size: 150px;
+    font-weight: 600;
+    color: white;
+}
+
+#rest p {
+    top: 180px;
+    left: 25%;
+    position: relative;
+    z-index: 10;
+    background-color: transparent;
+    text-shadow: 20px;
+}
+
+h4 {
+    position: absolute;
+    top: 460px;
+    left: 58%;
+    z-index: 10;
+    font-size: 25px;
+    background: transparent;
+}
+
+#rest img {
+    position: absolute;
+    top: 140px;
+    left: 56%;
+    transform: translate(-50%, -50%);
+    z-index: 9;
+    scale: 0.6;
+    overflow: hidden;
+}
+
+/* #img2 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: -80px;
+    left: 55px;
+} */
