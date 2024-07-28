@@ -1,7 +1,7 @@
 # Gypto-cryptocards
 Gypto Clone is a beautiful web application inspired by the design principles of the Gypto website, showcasing a blend of modern frontend technologies and creative animations. Built with HTML and CSS, the project incorporates basic CSS features and animations to create a visually appealing and functional website.This project is a clone of https://gypto.webflow.io/.
 
-###-Hosted on: https://sachinmehar21.github.io/Gypto-cryptocards/
+### Hosted on: https://sachinmehar21.github.io/Gypto-cryptocards/
 
 #Table of Contents
  • Installation
