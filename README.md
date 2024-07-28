@@ -3,7 +3,8 @@ Gypto Clone is a beautiful web application inspired by the design principles of 
 
 ### Hosted on: https://sachinmehar21.github.io/Gypto-cryptocards/
 
-#Table of Contents
+# Table of Contents
+
  • Installation
  • Features
  • Contributing
